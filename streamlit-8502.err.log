@@ -1,0 +1,98 @@
+2026-04-28 21:20:16.904744: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2026-04-28 21:20:24.237918: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2026-04-28 21:20:32.033 The fragment with id 4c3c1cd1772b265aa364d395ccee5da8 does not exist anymore - it might have been removed during a preceding full-app rerun.
+C:\Users\rasin\AppData\Local\Programs\Python\Python312\Lib\site-packages\keras\src\layers\convolutional\base_conv.py:113: UserWarning: Do not pass an `input_shape`/`input_dim` argument to a layer. When using Sequential models, prefer using an `Input(shape)` object as the first layer in the model instead.
+  super().__init__(activity_regularizer=activity_regularizer, **kwargs)
+2026-04-28 21:20:33.757859: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: SSE3 SSE4.1 SSE4.2 AVX AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+C:\Users\rasin\AppData\Local\Programs\Python\Python312\Lib\site-packages\keras\src\optimizers\base_optimizer.py:86: UserWarning: Argument `decay` is no longer supported and will be ignored.
+  warnings.warn(
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+C:\Users\rasin\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\base.py:380: InconsistentVersionWarning: Trying to unpickle estimator CountVectorizer from version 1.0.2 when using version 1.6.1. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+C:\Users\rasin\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\base.py:380: InconsistentVersionWarning: Trying to unpickle estimator LogisticRegression from version 1.0.2 when using version 1.6.1. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+C:\Users\rasin\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\base.py:380: InconsistentVersionWarning: Trying to unpickle estimator Pipeline from version 1.0.2 when using version 1.6.1. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+WARNING:tensorflow:From C:\Users\rasin\AppData\Local\Programs\Python\Python312\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+WARNING:tensorflow:From C:\Users\rasin\AppData\Local\Programs\Python\Python312\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2026-04-28 21:21:32.045 The fragment with id 4c3c1cd1772b265aa364d395ccee5da8 does not exist anymore - it might have been removed during a preceding full-app rerun.
+2026-04-28 21:22:32.041 The fragment with id 4c3c1cd1772b265aa364d395ccee5da8 does not exist anymore - it might have been removed during a preceding full-app rerun.
+2026-04-28 21:23:32.042 The fragment with id 4c3c1cd1772b265aa364d395ccee5da8 does not exist anymore - it might have been removed during a preceding full-app rerun.
+2026-04-28 21:24:32.043 The fragment with id 4c3c1cd1772b265aa364d395ccee5da8 does not exist anymore - it might have been removed during a preceding full-app rerun.
+2026-04-28 21:25:32.038 The fragment with id 4c3c1cd1772b265aa364d395ccee5da8 does not exist anymore - it might have been removed during a preceding full-app rerun.
+2026-04-28 21:26:32.043 The fragment with id 4c3c1cd1772b265aa364d395ccee5da8 does not exist anymore - it might have been removed during a preceding full-app rerun.
+2026-04-28 21:27:32.045 The fragment with id 4c3c1cd1772b265aa364d395ccee5da8 does not exist anymore - it might have been removed during a preceding full-app rerun.
+2026-04-28 21:28:32.054 The fragment with id 4c3c1cd1772b265aa364d395ccee5da8 does not exist anymore - it might have been removed during a preceding full-app rerun.
+2026-04-28 21:29:32.045 The fragment with id 4c3c1cd1772b265aa364d395ccee5da8 does not exist anymore - it might have been removed during a preceding full-app rerun.
+2026-04-28 21:30:32.036 The fragment with id 4c3c1cd1772b265aa364d395ccee5da8 does not exist anymore - it might have been removed during a preceding full-app rerun.
+2026-04-28 21:31:32.060 The fragment with id 4c3c1cd1772b265aa364d395ccee5da8 does not exist anymore - it might have been removed during a preceding full-app rerun.
+2026-04-28 21:32:32.043 The fragment with id 4c3c1cd1772b265aa364d395ccee5da8 does not exist anymore - it might have been removed during a preceding full-app rerun.
+2026-04-28 21:33:32.038 The fragment with id 4c3c1cd1772b265aa364d395ccee5da8 does not exist anymore - it might have been removed during a preceding full-app rerun.
+2026-04-28 21:34:32.043 The fragment with id 4c3c1cd1772b265aa364d395ccee5da8 does not exist anymore - it might have been removed during a preceding full-app rerun.
+2026-04-28 21:35:32.043 The fragment with id 4c3c1cd1772b265aa364d395ccee5da8 does not exist anymore - it might have been removed during a preceding full-app rerun.
+2026-04-28 21:36:32.037 The fragment with id 4c3c1cd1772b265aa364d395ccee5da8 does not exist anymore - it might have been removed during a preceding full-app rerun.
+2026-04-28 21:37:32.047 The fragment with id 4c3c1cd1772b265aa364d395ccee5da8 does not exist anymore - it might have been removed during a preceding full-app rerun.
+2026-04-28 21:38:30.343 The fragment with id 4c3c1cd1772b265aa364d395ccee5da8 does not exist anymore - it might have been removed during a preceding full-app rerun.
+2026-04-28 21:38:30.627 The fragment with id 4c3c1cd1772b265aa364d395ccee5da8 does not exist anymore - it might have been removed during a preceding full-app rerun.
+2026-04-28 21:38:30.788 The fragment with id 4c3c1cd1772b265aa364d395ccee5da8 does not exist anymore - it might have been removed during a preceding full-app rerun.
+2026-04-28 21:38:30.877 The fragment with id 4c3c1cd1772b265aa364d395ccee5da8 does not exist anymore - it might have been removed during a preceding full-app rerun.
+2026-04-28 21:38:30.947 The fragment with id 4c3c1cd1772b265aa364d395ccee5da8 does not exist anymore - it might have been removed during a preceding full-app rerun.
+2026-04-28 21:38:31.032 The fragment with id 4c3c1cd1772b265aa364d395ccee5da8 does not exist anymore - it might have been removed during a preceding full-app rerun.
+2026-04-28 21:38:31.113 The fragment with id 4c3c1cd1772b265aa364d395ccee5da8 does not exist anymore - it might have been removed during a preceding full-app rerun.
+2026-04-28 21:38:31.190 The fragment with id 4c3c1cd1772b265aa364d395ccee5da8 does not exist anymore - it might have been removed during a preceding full-app rerun.
+2026-04-28 21:38:31.267 The fragment with id 4c3c1cd1772b265aa364d395ccee5da8 does not exist anymore - it might have been removed during a preceding full-app rerun.
+2026-04-28 21:38:31.344 The fragment with id 4c3c1cd1772b265aa364d395ccee5da8 does not exist anymore - it might have been removed during a preceding full-app rerun.
+2026-04-28 21:38:31.421 The fragment with id 4c3c1cd1772b265aa364d395ccee5da8 does not exist anymore - it might have been removed during a preceding full-app rerun.
+2026-04-28 21:38:31.499 The fragment with id 4c3c1cd1772b265aa364d395ccee5da8 does not exist anymore - it might have been removed during a preceding full-app rerun.
+2026-04-28 21:38:31.579 The fragment with id 4c3c1cd1772b265aa364d395ccee5da8 does not exist anymore - it might have been removed during a preceding full-app rerun.
+2026-04-28 21:38:31.657 The fragment with id 4c3c1cd1772b265aa364d395ccee5da8 does not exist anymore - it might have been removed during a preceding full-app rerun.
+2026-04-28 21:38:31.738 The fragment with id 4c3c1cd1772b265aa364d395ccee5da8 does not exist anymore - it might have been removed during a preceding full-app rerun.
+2026-04-28 21:38:31.814 The fragment with id 4c3c1cd1772b265aa364d395ccee5da8 does not exist anymore - it might have been removed during a preceding full-app rerun.
+2026-04-28 21:38:31.898 The fragment with id 4c3c1cd1772b265aa364d395ccee5da8 does not exist anymore - it might have been removed during a preceding full-app rerun.
+2026-04-28 21:38:31.978 The fragment with id 4c3c1cd1772b265aa364d395ccee5da8 does not exist anymore - it might have been removed during a preceding full-app rerun.
+2026-04-28 21:38:32.062 The fragment with id 4c3c1cd1772b265aa364d395ccee5da8 does not exist anymore - it might have been removed during a preceding full-app rerun.
+2026-04-28 21:38:32.140 The fragment with id 4c3c1cd1772b265aa364d395ccee5da8 does not exist anymore - it might have been removed during a preceding full-app rerun.
+2026-04-28 21:38:32.210 The fragment with id 4c3c1cd1772b265aa364d395ccee5da8 does not exist anymore - it might have been removed during a preceding full-app rerun.
+2026-04-28 21:38:32.295 The fragment with id 4c3c1cd1772b265aa364d395ccee5da8 does not exist anymore - it might have been removed during a preceding full-app rerun.
+2026-04-28 21:38:32.373 The fragment with id 4c3c1cd1772b265aa364d395ccee5da8 does not exist anymore - it might have been removed during a preceding full-app rerun.
+2026-04-28 21:38:32.448 The fragment with id 4c3c1cd1772b265aa364d395ccee5da8 does not exist anymore - it might have been removed during a preceding full-app rerun.
+2026-04-28 21:38:32.527 The fragment with id 4c3c1cd1772b265aa364d395ccee5da8 does not exist anymore - it might have been removed during a preceding full-app rerun.
+2026-04-28 21:38:32.611 The fragment with id 4c3c1cd1772b265aa364d395ccee5da8 does not exist anymore - it might have been removed during a preceding full-app rerun.
+2026-04-28 21:38:32.694 The fragment with id 4c3c1cd1772b265aa364d395ccee5da8 does not exist anymore - it might have been removed during a preceding full-app rerun.
+2026-04-28 21:38:32.774 The fragment with id 4c3c1cd1772b265aa364d395ccee5da8 does not exist anymore - it might have been removed during a preceding full-app rerun.
+2026-04-28 21:38:32.844 The fragment with id 4c3c1cd1772b265aa364d395ccee5da8 does not exist anymore - it might have been removed during a preceding full-app rerun.
+2026-04-28 21:38:32.927 The fragment with id 4c3c1cd1772b265aa364d395ccee5da8 does not exist anymore - it might have been removed during a preceding full-app rerun.
+2026-04-28 21:38:33.011 The fragment with id 4c3c1cd1772b265aa364d395ccee5da8 does not exist anymore - it might have been removed during a preceding full-app rerun.
+2026-04-28 21:38:33.078 The fragment with id 4c3c1cd1772b265aa364d395ccee5da8 does not exist anymore - it might have been removed during a preceding full-app rerun.
+2026-04-28 21:38:33.161 The fragment with id 4c3c1cd1772b265aa364d395ccee5da8 does not exist anymore - it might have been removed during a preceding full-app rerun.
+2026-04-28 21:38:33.244 The fragment with id 4c3c1cd1772b265aa364d395ccee5da8 does not exist anymore - it might have been removed during a preceding full-app rerun.
+2026-04-28 21:38:33.322 The fragment with id 4c3c1cd1772b265aa364d395ccee5da8 does not exist anymore - it might have been removed during a preceding full-app rerun.
+2026-04-28 21:38:33.395 The fragment with id 4c3c1cd1772b265aa364d395ccee5da8 does not exist anymore - it might have been removed during a preceding full-app rerun.
+2026-04-28 21:38:33.477 The fragment with id 4c3c1cd1772b265aa364d395ccee5da8 does not exist anymore - it might have been removed during a preceding full-app rerun.
+2026-04-28 21:38:33.555 The fragment with id 4c3c1cd1772b265aa364d395ccee5da8 does not exist anymore - it might have been removed during a preceding full-app rerun.
+2026-04-28 21:38:33.634 The fragment with id 4c3c1cd1772b265aa364d395ccee5da8 does not exist anymore - it might have been removed during a preceding full-app rerun.
+2026-04-28 21:38:33.711 The fragment with id 4c3c1cd1772b265aa364d395ccee5da8 does not exist anymore - it might have been removed during a preceding full-app rerun.
+2026-04-28 21:38:33.791 The fragment with id 4c3c1cd1772b265aa364d395ccee5da8 does not exist anymore - it might have been removed during a preceding full-app rerun.
+2026-04-28 21:38:33.878 The fragment with id 4c3c1cd1772b265aa364d395ccee5da8 does not exist anymore - it might have been removed during a preceding full-app rerun.
+2026-04-28 21:38:33.961 The fragment with id 4c3c1cd1772b265aa364d395ccee5da8 does not exist anymore - it might have been removed during a preceding full-app rerun.
+2026-04-28 21:38:34.028 The fragment with id 4c3c1cd1772b265aa364d395ccee5da8 does not exist anymore - it might have been removed during a preceding full-app rerun.
+2026-04-28 21:38:34.110 The fragment with id 4c3c1cd1772b265aa364d395ccee5da8 does not exist anymore - it might have been removed during a preceding full-app rerun.
+2026-04-28 21:38:34.193 The fragment with id 4c3c1cd1772b265aa364d395ccee5da8 does not exist anymore - it might have been removed during a preceding full-app rerun.
+2026-04-28 21:38:34.276 The fragment with id 4c3c1cd1772b265aa364d395ccee5da8 does not exist anymore - it might have been removed during a preceding full-app rerun.
+2026-04-28 21:38:34.347 The fragment with id 4c3c1cd1772b265aa364d395ccee5da8 does not exist anymore - it might have been removed during a preceding full-app rerun.
+2026-04-28 21:38:34.430 The fragment with id 4c3c1cd1772b265aa364d395ccee5da8 does not exist anymore - it might have been removed during a preceding full-app rerun.
+2026-04-28 21:38:34.511 The fragment with id 4c3c1cd1772b265aa364d395ccee5da8 does not exist anymore - it might have been removed during a preceding full-app rerun.
+2026-04-28 21:38:34.588 The fragment with id 4c3c1cd1772b265aa364d395ccee5da8 does not exist anymore - it might have been removed during a preceding full-app rerun.
+2026-04-28 21:38:34.661 The fragment with id 4c3c1cd1772b265aa364d395ccee5da8 does not exist anymore - it might have been removed during a preceding full-app rerun.
+2026-04-28 21:38:34.745 The fragment with id 4c3c1cd1772b265aa364d395ccee5da8 does not exist anymore - it might have been removed during a preceding full-app rerun.
+2026-04-28 21:38:34.823 The fragment with id 4c3c1cd1772b265aa364d395ccee5da8 does not exist anymore - it might have been removed during a preceding full-app rerun.
+2026-04-28 21:38:34.896 The fragment with id 4c3c1cd1772b265aa364d395ccee5da8 does not exist anymore - it might have been removed during a preceding full-app rerun.
+2026-04-28 21:38:34.979 The fragment with id 4c3c1cd1772b265aa364d395ccee5da8 does not exist anymore - it might have been removed during a preceding full-app rerun.
+2026-04-28 21:38:35.058 The fragment with id 4c3c1cd1772b265aa364d395ccee5da8 does not exist anymore - it might have been removed during a preceding full-app rerun.
