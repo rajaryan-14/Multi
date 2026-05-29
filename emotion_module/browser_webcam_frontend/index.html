@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>browser-webcam</title>
+    <script defer src="./streamlit-component-lib.js"></script>
+    <script defer src="./main.js"></script>
+    <link rel="stylesheet" href="./style.css" />
+  </head>
+  <body>
+    <div id="shell" class="webcam-shell">
+      <video id="video" autoplay playsinline muted></video>
+      <canvas id="overlay"></canvas>
+      <div id="placeholder" class="placeholder">Allow camera access to start the live preview.</div>
+    </div>
+  </body>
+</html>
